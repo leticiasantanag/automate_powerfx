@@ -1,4 +1,4 @@
-# automate_powerfx
+
 # 🚀 Sistema Automatizado de Alerta e Governança de Prazos
 
 Este repositório contém a arquitetura da automação desenvolvida para garantir o cumprimento de prazos e o acompanhamento proativo de registros de um aplicativo corporativo, integrando o **Power Automate** e o **SharePoint**.
